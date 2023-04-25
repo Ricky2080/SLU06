@@ -1,0 +1,7 @@
+beans
+tomatoes
+bananas
+spinach
+pasta
+oat milk
+
