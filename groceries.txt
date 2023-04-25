@@ -2,3 +2,6 @@ beans
 orange juice
 butter
 eggs (for mama pudin!)
+chocolate
+strawberries
+toilet paper
